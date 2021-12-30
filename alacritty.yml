@@ -3,6 +3,9 @@ window:
   # Neither borders nor title bar
   decorations: none
 
+  # Startup Mode (changes require restart)
+  startup_mode: Maximized
+
 # Font configuration (changes require restart)
 font:
   # Normal (roman) font face
