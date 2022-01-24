@@ -12,8 +12,8 @@ env:
 
 # Window decorations
 window:
-  # Allow terminal applications to change Alacritty's window title.
-  dynamic_title: false
+  # Neither borders nor title bar
+  decorations: none
 
   # Startup Mode (changes require restart)
   startup_mode: Maximized
